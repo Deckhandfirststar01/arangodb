@@ -19,7 +19,7 @@
     "graphql-sync": "0.6.2-sync",
     "highlight.js": "9.8.0",
     "http-errors": "1.5.0",
-    "i": "0.3.5",
+    "i": "0.3.7",
     "iconv-lite": "0.4.13",
     "joi": "9.2.0",
     "joi-to-json-schema": "2.3.1",
