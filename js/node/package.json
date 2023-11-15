@@ -30,7 +30,7 @@
     "mime-types": "2.1.12",
     "minimatch": "3.0.3",
     "mocha": "4.0.0",
-    "netmask": "1.0.6",
+    "netmask": "2.0.1",
     "qs": "6.3.2",
     "range-parser": "1.2.0",
     "semver": "5.3.0",
