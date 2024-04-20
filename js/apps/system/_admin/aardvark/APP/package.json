@@ -13,7 +13,7 @@
     "eslint-plugin-promise": "^3.3.2",
     "eslint-plugin-standard": "^2.0.1",
     "grunt": "^1.0.1",
-    "grunt-babel": "*",
+    "grunt-babel": "7.0.0",
     "grunt-concat-in-order": "*",
     "grunt-concurrent": "*",
     "grunt-contrib-compress": "*",
@@ -38,7 +38,7 @@
     "url": "git://github.com/arangodb/arangodb.git"
   },
   "dependencies": {
-    "grunt-babel": "^6.0.0",
+    "grunt-babel": "^7.0.0",
     "grunt-concat-in-order": "^0.2.6",
     "grunt-contrib-compress": "^1.3.0",
     "grunt-contrib-concat": "^1.0.1",
