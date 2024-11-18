@@ -27,7 +27,7 @@
     "grunt-contrib-watch": "*",
     "grunt-eslint": "^19.0.0",
     "grunt-processhtml": "*",
-    "grunt-sass": "*",
+    "grunt-sass": "3.0.0",
     "grunt-text-replace": "*",
     "load-grunt-tasks": "*",
     "matchdep": "*",
@@ -50,7 +50,7 @@
     "grunt-contrib-uglify": "^1.0.1",
     "grunt-contrib-watch": "^1.0.0",
     "grunt-processhtml": "^0.4.0",
-    "grunt-sass": "^1.2.0",
+    "grunt-sass": "^3.0.0",
     "matchdep": "^1.0.1"
   }
 }
